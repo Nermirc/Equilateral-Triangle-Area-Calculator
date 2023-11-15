@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699988952 source:c:\users\rakri\onedrive\masaüstü\c programlama\equilateral triangle area calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
